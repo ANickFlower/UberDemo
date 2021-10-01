@@ -14,4 +14,4 @@ web-build/
 
 .env
 
-logins.txt
+./app/componets/logins.txt
